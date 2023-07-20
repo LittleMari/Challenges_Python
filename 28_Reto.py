@@ -37,7 +37,7 @@ def expendedora(n_producto, dinero):
 
             else:
                 continue
-        print (producto, vueltas_monedas, vueltas)
+        print (producto, vueltas_monedas)
 
 dinero = 50 + 100
 expendedora(1, dinero)
